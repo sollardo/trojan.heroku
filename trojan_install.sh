@@ -1,5 +1,5 @@
 #!/bin/bash
-curl -L -H "Cache-Control: no-cache" -o /trojan.tar.xz https://github.com/trojan-gfw/trojan/releases/download/v1.15.1/trojan-1.15.1-linux-amd64.tar.xz
+curl -L -H "Cache-Control: no-cache" -o /trojan.tar.xz https://github.com/trojan-gfw/trojan/releases/download/v1.16.0/trojan-1.16.0-linux-amd64.tar.xz
 mkdir /usr/bin/trojan /etc/trojan
 touch /etc/trojan/server.conf
 tar xf trojan.tar.xz
