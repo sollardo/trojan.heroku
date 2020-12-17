@@ -6,7 +6,7 @@
 	"env": {
 		"PASSWORD": {
 			"description": "trojan password",
-			"value": "test123456"
+			"value": "S1326789"
 		}
 	},
 	"website": "https://github.com/trojan-gfw/trojan",
